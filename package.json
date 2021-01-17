@@ -1,0 +1,17 @@
+{
+  "name": "NeighborsQuests",
+  "version": "1.0.0",
+  "description": "What is CodeIgniter ###################",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "rfs": "^9.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "compile:sass": "node-sass assets/scss/main.scss assets/css/styles.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

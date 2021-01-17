@@ -1,0 +1,29 @@
+.quest {
+    width: 408px;
+    height: 200px;
+
+    &--hidden {
+        visibility: hidden;
+    }
+
+    &__image {
+        width: 200px;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    &__img {
+        width: 200px;
+        height: auto;
+
+        &--alt {
+            height: 200px;
+            width: auto;
+        }
+    }
+
+    &__info {
+        width: 208px;
+    }
+
+}

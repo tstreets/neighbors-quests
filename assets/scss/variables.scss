@@ -1,0 +1,21 @@
+$first-color: #8A420F;
+$second-color: #B87B55;
+$third-color: #E6B796;
+$fourth-color: #FFE4D9;
+$fifth-color: #707070;
+
+$colors: (
+    "first": $first-color,
+    "second": $second-color,
+    "third": $third-color,
+    "fourth": $fourth-color,
+    "fifth": $fifth-color
+) !default;
+
+$theme-colors: (
+    "first": $first-color,
+    "second": $second-color,
+    "third": $third-color,
+    "fourth": $fourth-color,
+    "fifth": $fifth-color
+) !default;

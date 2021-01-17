@@ -1,0 +1,15 @@
+.details {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: BLUE;
+    z-index: 1000; // 999 keeps maps attributes above modal
+    display: flex;
+
+    &__quest {
+        width: calc(100% - 100px);
+        height: calc(100% - 100px);
+        margin: auto;
+        background-color: aliceblue;
+    }
+}
